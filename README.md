@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-- :orange_book: Focusing on Machine Learning and Data Mining
+- :orange_book: Focus on Machine Learning and Data Mining
 - :ram: Like playing Nintendo Switch Games
 - :hammer: Unemployed
 
