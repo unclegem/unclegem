@@ -3,7 +3,7 @@
 ### Hi👋 I am unclegem
 
 - :orange_book:  Focus on Machine Learning and Data Mining
-- :ram:  Like playing PC Games
+- :ram:  Like playing Games
 - :hammer:  Unemployed
 
 
