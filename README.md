@@ -4,6 +4,5 @@
 
 - :orange_book:  Focus on Machine Learning and Data Mining
 - :ram:  Like playing Games
-- :hammer:  Unemployed
-
+- :hammer:  Working at NetEase Games
 
